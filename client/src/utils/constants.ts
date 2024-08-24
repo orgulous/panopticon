@@ -17,3 +17,4 @@ export const colorPalette = {
   black: "#000000",
   white: "#F2F2F2",
 };
+export const WS_URL = "ws://127.0.0.1:8080";
